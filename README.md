@@ -1,5 +1,5 @@
 # typst_editorial
-Typst로 만드는 Problem Solving Editorial
+Typst로 만드는 Problem Solving Editorial: https://blog.hoony.me/84
 
 렌더링된 PDF는 Sample.pdf로 업로드돼 있으며, [**이곳에서도**](https://typst.app/project/r3toPCLkZyU5f_JLaGgfoc) 확인해보실 수 있습니다. (Typst app)
 
