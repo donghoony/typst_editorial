@@ -1,0 +1,6 @@
+#let AC_BRONZE = rgb("9d4900")
+#let AC_SILVER = rgb("38546e")
+#let AC_GOLD = rgb("d28500")
+#let AC_PLATINUM = rgb("00c78b")
+#let AC_DIAMOND = rgb("009ee5")
+#let AC_RUBY = rgb("e0004c")
