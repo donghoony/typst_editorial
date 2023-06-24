@@ -10,5 +10,4 @@ Typst로 만드는 Problem Solving Editorial
 ![image](https://github.com/donghoony/typst_editorial/assets/31026350/966244be-729d-487c-8073-6395b54210a2)
 
 ### Editorial
-![image](https://github.com/donghoony/typst_editorial/assets/31026350/494d5838-f593-4e66-bf4e-ac45b387f256)
-
+![image](https://github.com/donghoony/typst_editorial/assets/31026350/76fb9c28-7bd8-48ba-97ad-12e844189875)
